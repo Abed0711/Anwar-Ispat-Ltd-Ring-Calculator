@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Anwar Ispat Ltd. Ring Calculator</string>
+    <string name="SelectDayameter">ডায়ামিটার সিলেক্ট করুন : </string>
+    <string name="Rad8MM">  ৮ মি. মি.</string>
+    <string name="Rad10MM">১০ মি. মি.</string>
+    <string name="Rad12MM">১২ মি. মি.</string>
+    <string name="Rad16MM">১৬ মি. মি.</string>
+    <string name="Rad20MM">২০ মি. মি.</string>
+    <string name="Rad25MM">২৫ মি. মি.</string>
+    <string name="Next">পরবর্তী</string>
+    <string name="weight">ওজন বের করুন</string>
+    <string name="pis">পিস্ বের করুন</string>
+    <string name="foot">ফুট</string>
+    <string name="Inch">ইঞ্চি</string>
+    <string name="pis1">পিস্</string>
+    <string name="pray">প্রায়</string>
+    <string name="Kg">কেজি </string>
+</resources>
